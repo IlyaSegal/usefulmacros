@@ -12,7 +12,7 @@ $ make
 ```
 2. Using:
 ```
-$ ./compareRootFiles -i [inputFileName] -o [outputFileName]
+$ ./compareRootFiles -i [inputFilesNames] -o [outputFileName]
 ```
 3. Additional options:
 ```
